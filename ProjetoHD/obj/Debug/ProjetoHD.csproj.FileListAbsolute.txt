@@ -1,0 +1,10 @@
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\bin\Debug\ProjetoHD.exe.config
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\bin\Debug\ProjetoHD.exe
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\bin\Debug\ProjetoHD.pdb
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.csprojAssemblyReference.cache
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.Form1.resources
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.Properties.Resources.resources
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.csproj.GenerateResource.cache
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.csproj.CoreCompileInputs.cache
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.exe
+C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.pdb
