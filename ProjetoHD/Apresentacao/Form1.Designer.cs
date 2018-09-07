@@ -1,6 +1,6 @@
 ﻿namespace ProjetoHD
 {
-    partial class Form1
+    partial class LoginCadastro
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginCadastro));
             this.pictureBoxHD = new System.Windows.Forms.PictureBox();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.btnSair = new System.Windows.Forms.Button();
@@ -58,7 +58,7 @@
             this.btnEntrar.Size = new System.Drawing.Size(82, 41);
             this.btnEntrar.TabIndex = 1;
             this.btnEntrar.Text = "ENTRAR";
-            this.btnEntrar.UseVisualStyleBackColor = true;
+            this.btnEntrar.UseVisualStyleBackColor = false;
             // 
             // btnSair
             // 
@@ -68,7 +68,8 @@
             this.btnSair.Size = new System.Drawing.Size(54, 23);
             this.btnSair.TabIndex = 2;
             this.btnSair.Text = "SAIR";
-            this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.UseVisualStyleBackColor = false;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // lblLogin
             // 
@@ -113,9 +114,10 @@
             this.btnCadastro.Size = new System.Drawing.Size(102, 41);
             this.btnCadastro.TabIndex = 7;
             this.btnCadastro.Text = "CADASTRO";
-            this.btnCadastro.UseVisualStyleBackColor = true;
+            this.btnCadastro.UseVisualStyleBackColor = false;
+            this.btnCadastro.Click += new System.EventHandler(this.btnCadastro_Click);
             // 
-            // Form1
+            // LoginCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -129,7 +131,7 @@
             this.Controls.Add(this.btnEntrar);
             this.Controls.Add(this.pictureBoxHD);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "LoginCadastro";
             this.Text = "SpyderHD Login/Cadastro";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxHD)).EndInit();

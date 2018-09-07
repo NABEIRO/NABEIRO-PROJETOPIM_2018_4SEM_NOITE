@@ -8,3 +8,15 @@ C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.csproj.
 C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.csproj.CoreCompileInputs.cache
 C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.exe
 C:\Users\SEMPITERNO\source\repos\ProjetoHD\ProjetoHD\obj\Debug\ProjetoHD.pdb
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\bin\Debug\ProjetoHD.exe.config
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\bin\Debug\ProjetoHD.exe
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\bin\Debug\ProjetoHD.pdb
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.csprojAssemblyReference.cache
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.Properties.Resources.resources
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.csproj.GenerateResource.cache
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.csproj.CoreCompileInputs.cache
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.exe
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.pdb
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.Apresentacao.BEMVINDO.resources
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.LoginCadastro.resources
+C:\Users\SEMPITERNO\Source\Repos\NABEIRO-PROJETOPIM_2018_4SEM_NOITE\ProjetoHD\obj\Debug\ProjetoHD.Apresentacao.CadastreSe.resources
