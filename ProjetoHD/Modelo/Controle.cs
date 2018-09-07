@@ -14,7 +14,7 @@ namespace ProjetoHD.Modelo
         public String mensagem = "";
 
         //metodo acessar
-        public bool acessar(String login, String senha)
+        public bool acessar(String login, String senha)//recebe do formulario de cadastro os valores e envia para logindoacomandos fazer a verificação se tem no BD*/
         {
             LoginDaoComandos loginDao = new LoginDaoComandos();
             tem  = loginDao.verificarLogin(login, senha);

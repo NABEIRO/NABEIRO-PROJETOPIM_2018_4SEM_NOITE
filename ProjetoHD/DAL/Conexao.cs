@@ -9,26 +9,26 @@ namespace ProjetoHD.DAL
 {
     public class Conexao
     {
-        SqlConnection con = new SqlConnection();
-        public Conexao()
+        SqlConnection con = new SqlConnection();//classe para conexao com sql
+        public Conexao()//contrutor da classe 
         {
-            con.ConnectionString = @"";
+            con.ConnectionString = @"Data Source=DESKTOP-RQBQ871;Initial Catalog=ProjetoLogin;Integrated Security=True";//recebe o endereço do banco de dados
         }
-        //metodo de conectar
-        public SqlConnection conectar()
+        
+        public SqlConnection conectar()//metodo de conectar
         {
-            if(con.State == System.Data.ConnectionState.Closed)
+            if(con.State == System.Data.ConnectionState.Closed)//verificando se a conexão está fechada
             {
-                con.Open();
+                con.Open();//abre a conexão
             }
             return con;
         }
-        //metodo de desconectar
-        public void deconectar()
+        
+        public void deconectar()//metodo de desconectar
         {
-            if(con.State == System.Data.ConnectionState.Open)
+            if(con.State == System.Data.ConnectionState.Open)//verifica se a conexão está aberta 
             {
-                con.Close();
+                con.Close();//fecha a conexão
             }
         }
     }
