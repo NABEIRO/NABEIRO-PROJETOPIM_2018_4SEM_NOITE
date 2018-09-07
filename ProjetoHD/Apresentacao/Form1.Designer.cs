@@ -75,36 +75,38 @@
             // lblLogin
             // 
             this.lblLogin.AutoSize = true;
-            this.lblLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLogin.Location = new System.Drawing.Point(301, 87);
             this.lblLogin.Name = "lblLogin";
-            this.lblLogin.Size = new System.Drawing.Size(53, 16);
+            this.lblLogin.Size = new System.Drawing.Size(72, 24);
             this.lblLogin.TabIndex = 3;
             this.lblLogin.Text = "LOGIN";
             // 
             // lblSenha
             // 
             this.lblSenha.AutoSize = true;
-            this.lblSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSenha.Location = new System.Drawing.Point(301, 201);
             this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(60, 16);
+            this.lblSenha.Size = new System.Drawing.Size(81, 24);
             this.lblSenha.TabIndex = 4;
             this.lblSenha.Text = "SENHA";
             // 
             // txbLogin
             // 
-            this.txbLogin.Location = new System.Drawing.Point(304, 104);
+            this.txbLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txbLogin.Location = new System.Drawing.Point(304, 114);
             this.txbLogin.Name = "txbLogin";
-            this.txbLogin.Size = new System.Drawing.Size(401, 20);
+            this.txbLogin.Size = new System.Drawing.Size(401, 29);
             this.txbLogin.TabIndex = 5;
             // 
             // txbSenha
             // 
-            this.txbSenha.Location = new System.Drawing.Point(304, 217);
+            this.txbSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txbSenha.Location = new System.Drawing.Point(304, 228);
             this.txbSenha.Name = "txbSenha";
             this.txbSenha.PasswordChar = '*';
-            this.txbSenha.Size = new System.Drawing.Size(401, 20);
+            this.txbSenha.Size = new System.Drawing.Size(401, 29);
             this.txbSenha.TabIndex = 6;
             // 
             // btnCadastro
