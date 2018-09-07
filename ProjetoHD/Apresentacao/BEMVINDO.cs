@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProjetoHD.Apresentacao
 {
-    public partial class BEMVINDO : Form
+    public partial class BemVindo : Form
     {
-        public BEMVINDO()
+        public BemVindo()
         {
             InitializeComponent();
         }

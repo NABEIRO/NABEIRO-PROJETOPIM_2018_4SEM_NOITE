@@ -42,15 +42,15 @@ namespace ProjetoHD
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            Controle controle = new Controle();
-            controle.acessar(txbLogin.Text, txbSenha.Text);
+            Controle controle = new Controle();//instanciar a classe controle
+            controle.acessar(txbLogin.Text, txbSenha.Text);//acessar metodo acessar em controle
             if (controle.mensagem.Equals(""))
             {
                 if (controle.tem)
                 {
                     MessageBox.Show("Logado com Sucesso", "Entrando", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    BEMVINDO bv = new BEMVINDO();
-                    bv.Show();
+                    BemVindo bv = new BemVindo();//instancia do form bemvindo
+                    bv.Show();//exibe form bemvindo
                 }
                 else
                 {
